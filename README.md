@@ -1,1 +1,1 @@
-"# pluralsight-conference-demo" 
+# pluralsight-conference-demo
